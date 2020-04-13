@@ -1,2 +1,2 @@
 # mmwebservices
-Kleinee REST-Services
+Kleine REST-Services
